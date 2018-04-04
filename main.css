@@ -1,0 +1,48 @@
+.center {
+  text-align: center;
+}
+#score {
+  font-size: 50px;
+  padding: 5px;
+}
+
+h1 {
+  font-family: "Monoton", cursive;
+  letter-spacing: 5px;
+  color: red;
+  font-size: 50px;
+}
+
+body {
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/2/2e/Wood_background.jpg");
+}
+
+#tetris {
+  right: 450px;
+  left: 450px;
+  position: relative;
+}
+.center {
+  text-align: center;
+}
+#score {
+  font-size: 50px;
+  padding: 5px;
+}
+
+h1 {
+  font-family: "Monoton", cursive;
+  letter-spacing: 5px;
+  color: red;
+  font-size: 50px;
+}
+
+body {
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/2/2e/Wood_background.jpg");
+}
+
+#tetris {
+  right: 450px;
+  left: 450px;
+  position: relative;
+}
